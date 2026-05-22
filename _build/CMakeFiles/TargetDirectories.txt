@@ -1,0 +1,9 @@
+/home/vboxuser/qNetayS/lab09/_build/CMakeFiles/print.dir
+/home/vboxuser/qNetayS/lab09/_build/CMakeFiles/package.dir
+/home/vboxuser/qNetayS/lab09/_build/CMakeFiles/package_source.dir
+/home/vboxuser/qNetayS/lab09/_build/CMakeFiles/edit_cache.dir
+/home/vboxuser/qNetayS/lab09/_build/CMakeFiles/rebuild_cache.dir
+/home/vboxuser/qNetayS/lab09/_build/CMakeFiles/list_install_components.dir
+/home/vboxuser/qNetayS/lab09/_build/CMakeFiles/install.dir
+/home/vboxuser/qNetayS/lab09/_build/CMakeFiles/install/local.dir
+/home/vboxuser/qNetayS/lab09/_build/CMakeFiles/install/strip.dir
